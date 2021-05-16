@@ -22,10 +22,8 @@ namespace PruebasDeConexion.Controllers
         {
             _persona = persona;
         }
-
-
         /// <summary>
-        /// get list personas 
+        /// recupera la listad e personas 
         /// </summary>
         /// <returns></returns>
         [HttpGet]
