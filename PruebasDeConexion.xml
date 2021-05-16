@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PruebasDeConexion</name>
+    </assembly>
+    <members>
+        <member name="M:PruebasDeConexion.Controllers.ProductosController.#ctor(PruebasDeConexion.Aplicacion.Contracts.IPerosona)">
+            <param name="persona"></param>
+        </member>
+        <member name="M:PruebasDeConexion.Controllers.ProductosController.getlisataProductos">
+            <summary>
+            get list personas 
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
